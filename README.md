@@ -1,4 +1,3 @@
-# Unit2ConstructWeek_HomeToGo
 HomeToGo Clone using Javascript CSS &amp; HTML
 
 Project Details: HomeToGo is the marketplace with the world's largest selection of vacation rentals. Some of the individual pages from the HomeToGo portal that we cloned include the following pages:  Home Page, Search Page, Listing your property, Wish List, Sign up & Login. We have tried to replicate the website with a few changes as we have mapped the data with INDIA's cities Delhi, Mumbai, Pune, Hyderabad & Bangalore.
